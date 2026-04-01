@@ -26,7 +26,7 @@ SOZLER = [
     {"soz": "Həkim", "izah": "Xəstələri müalicə edən mütəxəssis", "ipucu": "Xəstəxanada işləyir"},
     {"soz": "Aşpaz", "izah": "Yemək bişirən peşəkar insan", "ipucu": "Restoranda işləyir"},
     {"soz": "Pilot", "izah": "Təyyarə idarə edən şəxs", "ipucu": "Göydə işləyir"},
-    {"soz": "Futbol", "izah": "Top ilə oynanan idman oyunu", "ipucu": "11 oyunçu"],
+    {"soz": "Futbol", "izah": "Top ilə oynanan idman oyunu", "ipucu": "11 oyunçu"},
     {"soz": "Musiqi", "izah": "Notlardan ibarət sənət növü", "ipucu": "Qulaqla dinlənilir"},
     {"soz": "Rəng", "izah": "Qırmızı, mavi, sarı kimi görüntü xüsusiyyəti", "ipucu": "Gözdə görünür"},
 ]
